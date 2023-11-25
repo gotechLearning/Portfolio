@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#dp{
+    height: 110px;
+    width: 100px;
+    padding: 2px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 50%;
+}
+#Namerule{
+    border-color: rgba(53, 103, 201, 0.81);
+    background-color: rgb(166, 216, 220);
+    align-self: center;
+}
+
+.topheading{
+    background-color:rgba(55, 108, 127, 0.136);
+    padding: 0px;
+}
+td{
+    padding-left: 10px;
+}
+hr{
+    background-color:crimson ;
+    height: 1px;
+}
